@@ -1,5 +1,7 @@
-### Hi there 👋
-
+##### Hi?
+My name is areli suleima although some people call me Are, Ara, Sule or simply Areli.
+I have been in the world of programming for about 10 years, currently I am a Technical Consultant in Oracle technologies, although I certainly dedicate most of my time to SQL and PL/SQL.
+My first encounter with code development was when I was 13 thanks to Tumblr, HTML was my first enemy and at the same time a great friend.
 <!--
 **arelisuleima/arelisuleima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
