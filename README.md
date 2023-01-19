@@ -8,11 +8,10 @@ My first encounter with code development was when I was 13 thanks to Tumblr 💙
 I studied Applied Mathematics and Computing 💻 🧑‍🎓(More computing than mathematics lol)
 
 I currently know how to program in Swift (my first love ❤️), Python, Javascript and recently SQL.
-
+ 
  ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
  
- <img src= "https://user-images.githubusercontent.com/72313215/213537163-501cf716-36a3-4767-a175-93a116f5dcde.png" width="120" height="100" />
-
+ <img align="left" width="180" height="150" src="https://user-images.githubusercontent.com/72313215/213537163-501cf716-36a3-4767-a175-93a116f5dcde.png">
 
 #### About me:
 - Strongly involved in the world of K-pop (ARMY? hell yes I am) 💜
