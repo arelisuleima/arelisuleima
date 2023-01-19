@@ -10,13 +10,15 @@ I studied Applied Mathematics and Computing 💻 🧑‍🎓(More computing than
 I currently know how to program in Swift (my first love ❤️), Python, Javascript and recently SQL.
 
  ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
+ 
+ <img src= "https://user-images.githubusercontent.com/72313215/213537163-501cf716-36a3-4767-a175-93a116f5dcde.png" width="120" height="100" />
+
 
 #### About me:
 - Strongly involved in the world of K-pop (ARMY? hell yes I am) 💜
--T hat I have studied mathematics does not mean that I am a human calculator.
+- That I have studied mathematics does not mean that I am a human calculator.
 - My emotional stability depends on my cat 🐱
 - "Divine feminine, I'm feminine (why?)" 💁‍♀️
--
 <!--
 **arelisuleima/arelisuleima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
