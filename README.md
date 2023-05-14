@@ -7,7 +7,7 @@ My first encounter with code development was when I was 13 thanks to Tumblr 💙
 
 I studied Applied Mathematics and Computing 💻 🧑‍🎓(More computing than mathematics lol)
 
-I currently know how to program in Swift (my first love ❤️), Python, Javascript, SQL, SQR, and recently PeopleCode.
+I currently know how to program in Swift, Python, Javascript, PL/SQL, SQR, PeopleCode  and recently Java.
  
  ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
  
