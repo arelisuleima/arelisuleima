@@ -10,8 +10,8 @@ I studied Applied Mathematics and Computing 💻 🧑‍🎓(More computing than
 I currently know how to program in Swift, Python, Javascript,Typescript, PL/SQL, SQR, PeopleCode and recently Java.
  
  ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
- 
- <img align="left" width="180" height="150" src="https://user-images.githubusercontent.com/72313215/213537163-501cf716-36a3-4767-a175-93a116f5dcde.png">
+ <img align="left" src="https://user-images.githubusercontent.com/72313215/228310719-050fae75-fbca-424d-8e1a-f0ece06cb404.png" width="100" height="100" />
+
 
 #### About me:
 - Strongly involved in the world of K-pop (ARMY? hell yes I am) 💜
