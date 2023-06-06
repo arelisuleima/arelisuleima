@@ -23,7 +23,15 @@ I have honed my skills across various programming languages and technologies. He
 |------|-----------|--------|------------|-----|-------------|
 |<img src="https://cdn-icons-png.flaticon.com/512/919/919833.png" width="100" height="100" />|<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100" />|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" width="100" height="100" />|<img src= "https://github.com/arelisuleima/arelisuleima/assets/72313215/4575d3a9-43ad-4326-a345-3cbbe20df1f5" width="100" height="100" />|<img src = "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" width="100" height="100" />|<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="100" height="100" />|
 
-
+```mermaid
+pie title 
+    "Swift" : 45
+    "Javascript" : 15
+    "Java" : 25
+    "PeopleCode" : 35
+    "PL/SQL" : 50
+    "Typescript" : 10
+```
 
 ## Fun Facts
 - Beyond my passion for programming, I am deeply immersed in the world of K-pop (ARMY? Hell yes, I am!) 💜
