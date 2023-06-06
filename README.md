@@ -1,8 +1,8 @@
 # About Me
 
-Hi! I'm Areli Suleima, also known as Are, Ara, Sule, or simply Areli. 🙇‍♀️ I have been immersed in the world of programming for over 10 years and currently work as a Technical Consultant in Oracle technologies. My primary focus is on PeopleSoft (PeopleCode) and Oracle Cloud (Java and APEX). 👓
+Hi! I'm Areli Suleima, also known as Are, Ara, Sule, or simply Areli. 🙇‍♀️ I have been immersed in the world of programming for over 10 years and currently work as a Technical Consultant in Oracle technologies. My primary focus is on PeopleSoft (PeopleCode) and Oracle Cloud (Java and APEX).
 
-<img src= "https://github.com/arelisuleima/arelisuleima/assets/72313215/5527a60f-0419-4c38-ac23-d598c37a0d6b" width="150" height="150" />
+<img align="left" src= "https://github.com/arelisuleima/arelisuleima/assets/72313215/5527a60f-0419-4c38-ac23-d598c37a0d6b" width="150" height="150" />
 
 ## Background
 My journey into code development began at the age of 13, thanks to Tumblr. HTML was both my first adversary and a great companion. I pursued my studies in Applied Mathematics and Computing 💻 🧑‍🎓, with a stronger emphasis on computing than mathematics (though I won't claim to be a human calculator!).
@@ -19,7 +19,7 @@ I have honed my skills across various programming languages and technologies. He
 |Swift |JavaScript | PL/SQL | PeopleCode| Java | Typescript |
 |------|-----------|--------|------------|-----|-------------|
 |<img src="https://cdn-icons-png.flaticon.com/512/919/919833.png" width="100" height="100" />|<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100" />|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" width="100" height="100" />|<img src= "https://github.com/arelisuleima/arelisuleima/assets/72313215/4575d3a9-43ad-4326-a345-3cbbe20df1f5" width="100" height="100" />|<img src = "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" width="100" height="100" />|<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="100" height="100" />|
-|Proficient in Swift for mobile app development, with a focus on iOS applications. Experienced in object-oriented programming, user interface development, API integration, and core functionality implementation. Stay up-to-date with the latest advancements in Swift.|Skilled in using JavaScript for dynamic actions in Angular and database connectivity. Proficient in writing JavaScript code for simple procedures and functions. Familiar with JavaScript libraries and frameworks, continuously exploring new technologies in the JavaScript ecosystem.|I have advanced expertise in PL/SQL, a language used for working with databases. I specialize in creating efficient and scalable database solutions. Using PL/SQL, I develop complex stored procedures, triggers, and functions to ensure data integrity, automate tasks, and optimize performance. I also have experience using PL/SQL within Oracle Application Express (APEX) to build interactive web applications. I stay updated with the latest PL/SQL features and best practices to deliver high-quality and effective database solutions.|
+
 
 
 ## Fun Facts
