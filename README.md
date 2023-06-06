@@ -1,21 +1,33 @@
-#### Hi?
-My name is Areli Suleima although some people call me Are, Ara, Sule or simply Areli. 🙇‍♀️
+# About Me
 
-I have been in the world of programming for about 10 years, currently I am a Technical Consultant in Oracle technologies, although I certainly dedicate most of my time to PeopleSoft(PeopleCode) and Oracle Cloud(Java and APEX). 👓
+Hi! I'm Areli Suleima, also known as Are, Ara, Sule, or simply Areli. 🙇‍♀️ I have been immersed in the world of programming for over 10 years and currently work as a Technical Consultant in Oracle technologies. My primary focus is on PeopleSoft (PeopleCode) and Oracle Cloud (Java and APEX). 👓
 
-My first encounter with code development was when I was 13 thanks to Tumblr 💙, HTML was my first enemy and at the same time a great friend. 
+<img src= "https://github.com/arelisuleima/arelisuleima/assets/72313215/5527a60f-0419-4c38-ac23-d598c37a0d6b" width="150" height="150" />
 
-I studied Applied Mathematics and Computing 💻 🧑‍🎓(More computing than mathematics lol)
+## Background
+My journey into code development began at the age of 13, thanks to Tumblr. HTML was both my first adversary and a great companion. I pursued my studies in Applied Mathematics and Computing 💻 🧑‍🎓, with a stronger emphasis on computing than mathematics (though I won't claim to be a human calculator!).
 
-I currently know how to program in Swift, Python, Javascript,Typescript, PL/SQL, SQR, PeopleCode and recently Java.
- 
- ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ 
- <img align="left" src="https://user-images.githubusercontent.com/72313215/228310719-050fae75-fbca-424d-8e1a-f0ece06cb404.png" width="100" height="100" />
+## Professional Experience
+As a Technical Consultant in Oracle technologies, I have had the privilege of working on diverse projects involving PeopleSoft and Oracle Cloud. From designing and implementing PeopleCode solutions to developing robust applications in Java and APEX, I bring a breadth of experience and expertise to every endeavor.
 
 
-#### About me:
-- Strongly involved in the world of K-pop (ARMY? hell yes I am) 💜
-- That I have studied mathematics does not mean that I am a human calculator.
-- My emotional stability depends on my cat 🐱
+## Skills
+I have honed my skills across various programming languages and technologies. Here are some of my key proficiencies:
+
+
+
+|Swift |JavaScript | PL/SQL | PeopleCode| Java | Typescript |
+|------|-----------|--------|------------|-----|-------------|
+|<img src="https://cdn-icons-png.flaticon.com/512/919/919833.png" width="100" height="100" />|<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100" />|<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" width="100" height="100" />|<img src= "https://github.com/arelisuleima/arelisuleima/assets/72313215/4575d3a9-43ad-4326-a345-3cbbe20df1f5" width="100" height="100" />|<img src = "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" width="100" height="100" />|<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="100" height="100" />|
+|Proficient in Swift for mobile app development, with a focus on iOS applications. Experienced in object-oriented programming, user interface development, API integration, and core functionality implementation. Stay up-to-date with the latest advancements in Swift.|Skilled in using JavaScript for dynamic actions in Angular and database connectivity. Proficient in writing JavaScript code for simple procedures and functions. Familiar with JavaScript libraries and frameworks, continuously exploring new technologies in the JavaScript ecosystem.|I have advanced expertise in PL/SQL, a language used for working with databases. I specialize in creating efficient and scalable database solutions. Using PL/SQL, I develop complex stored procedures, triggers, and functions to ensure data integrity, automate tasks, and optimize performance. I also have experience using PL/SQL within Oracle Application Express (APEX) to build interactive web applications. I stay updated with the latest PL/SQL features and best practices to deliver high-quality and effective database solutions.|
+
+
+## Fun Facts
+- Beyond my passion for programming, I am deeply immersed in the world of K-pop (ARMY? Hell yes, I am!) 💜
+- While I studied mathematics, I don't possess the powers of a human calculator.
+- My emotional stability heavily relies on the presence of my beloved cat 🐱
 - "Divine feminine, I'm feminine (why?)" 💁‍♀️
-<!--
+
+## Connect with Me
+Let's stay connected! You can find me on [Twitter](https://twitter.com/arelisuleima) and [Instagram](https://instagram.com/arelisuleima).
+
