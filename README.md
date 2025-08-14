@@ -2,14 +2,14 @@
 
 Hi! I'm **Areli Suleima** — but you can call me Are, Ara, Sule, or simply Areli 🐸♀️
 
-<img align="right" src="https://github.com/arelisuleima/arelisuleima/assets/72313215/d955880d-e649-4c7f-b8c4-d7f7a36b0235" width="150" height="150" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo4ZzNuYzlrNDczcHB5NGh6djBzd25xN2RoNGV4dmVnMzB1czR6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvlaXOfUxg9mPNGNBK/giphy.gif" width="150" />
 
-💻 **Backend Developer** specialized in **Oracle technologies**, **PeopleSoft**, and **data-driven solutions**.  
+💻 **Backend Developer** specialized in **SQL**,**Oracle technologies**,and **data-driven solutions**.  
 I love **automation**, **database optimization**, and **ERP customization**.
 
 🚀 Currently working on:  
 - **Pantry** 🥫 — Pantry management app built with **Deno**.
-- **Pensieve** 📝 — Multi-note widget for Linux made with **Python** + **EWW**, supporting markdown and task lists.
+- **Pensieve** 📝 — Multi-note widget for Linux made with **Python** + **EWW**.
 
 
 🎯 Always learning, exploring, and building scalable, efficient software.  
@@ -26,8 +26,7 @@ I love **automation**, **database optimization**, and **ERP customization**.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-
-<sub>Previously used: Django, React</sub>  
+ 
 
 ---
 
@@ -50,9 +49,13 @@ I love **automation**, **database optimization**, and **ERP customization**.
 ---
 
 <div align="center">
-<sub>✨ Thanks for visiting my profile! ✨</sub>
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />  
 </div>
+
+<div align="center">
+✨ Thanks for visiting my profile! ✨  
+</div>
+
 
 
 
