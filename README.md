@@ -32,7 +32,7 @@ I love **automation**, **database optimization**, and **ERP customization**.
 
 ## ⭐ Fun Facts
 
-- 💜 K-pop fan (ARMY forever!)
+- 💜 Kpoper
 - ➗ Studied mathematics (but not a human calculator)
 - 🐱 My cat is my emotional support
 - 💗 "*Divine feminine, I'm feminine (why?)*"
