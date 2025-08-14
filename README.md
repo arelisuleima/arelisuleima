@@ -1,22 +1,59 @@
-# About Me 👩🏻‍💻
+# 🌸 About Me 👩🏻‍💻
 
-Hi! I'm Areli Suleima, also known as Are, Ara, Sule, or simply Areli. 🐸♀️ 
+Hi! I'm **Areli Suleima** — but you can call me Are, Ara, Sule, or simply Areli 🐸♀️
 
-<img align="left" src= "https://github.com/arelisuleima/arelisuleima/assets/72313215/d955880d-e649-4c7f-b8c4-d7f7a36b0235" width="150" height="150" />
+<img align="right" src="https://github.com/arelisuleima/arelisuleima/assets/72313215/d955880d-e649-4c7f-b8c4-d7f7a36b0235" width="150" height="150" />
 
-Backend developer with strong experience in Oracle technologies, PeopleSoft, and data-driven solutions. I enjoy solving complex problems through automation, database optimization, and ERP customization.
+💻 **Backend Developer** specialized in **Oracle technologies**, **PeopleSoft**, and **data-driven solutions**.  
+I love **automation**, **database optimization**, and **ERP customization**.
 
-🔧 Skilled in SQL, PL/SQL, PeopleCode, Java, and web frameworks like Django and React. I’m currently working on two personal projects: Pantry, a pantry management web app built with Deno.
+🚀 Currently working on:  
+- **Pantry** 🥫 — Pantry management app built with **Deno**.
+- **Pensieve** 📝 — Multi-note widget for Linux made with **Python** + **EWW**, supporting markdown and task lists.
 
-🚀 I'm always learning and exploring better ways to build scalable, efficient software.
 
+🎯 Always learning, exploring, and building scalable, efficient software.  
 
-## ⭐Fun Facts
-- Beyond my passion for programming, I am deeply immersed in the world of K-pop (ARMY? Hell yes, I am!) 💜
-- While I studied mathematics, I don't possess the powers of a human calculator.
-- My emotional stability heavily relies on the presence of my beloved cat 🐱
-- "*Divine feminine, I'm feminine (why?)*" 💗♀️
-- I am very good making draws and creative. In fact, I am so good that I don't need to use any tools or materials. I just use my mind and imagination. I can draw anything I want with just a thought. For example, yesterday I drew a unicorn flying over a rainbow 🦄. It was so beautiful and realistic that I almost cried.
+---
+
+## 🛠 Tech Stack
+
+<!-- Badges from shields.io -->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PeopleCode](https://img.shields.io/badge/PeopleCode-003366?style=for-the-badge&logo=ibm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+
+<sub>Previously used: Django, React</sub>  
+
+---
+
+## ⭐ Fun Facts
+
+- 💜 K-pop fan (ARMY forever!)
+- ➗ Studied mathematics (but not a human calculator)
+- 🐱 My cat is my emotional support
+- 💗 "*Divine feminine, I'm feminine (why?)*"
+- 🎨 Creativity is my superpower — I love imagining, designing, and building unique digital and artistic creations ✨
+
+---
+
+## 📈 GitHub Stats  
+
+<!-- These add motion-like activity -->
+![Areli's GitHub stats](https://github-readme-stats.vercel.app/api?username=arelisuleima&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arelisuleima&layout=compact&theme=tokyonight)
+
+---
+
+<div align="center">
+<sub>✨ Thanks for visiting my profile! ✨</sub>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />  
+</div>
+
 
 
 
