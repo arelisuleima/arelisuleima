@@ -9,7 +9,7 @@ I love **automation**, **database optimization**, and **ERP customization**.
 
 🚀 Currently working on:  
 - **Pantry** 🥫 — Pantry management app built with **Deno**.
-- **Pensieve** 📝 — Multi-note widget for Linux made with **Python** + **EWW**.
+- **Pensadero** 📝 — Multi-note widget for Linux made with **Python** + **EWW**.
 
 
 🎯 Always learning, exploring, and building scalable, efficient software.  
